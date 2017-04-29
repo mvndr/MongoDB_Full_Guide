@@ -1,0 +1,25 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "^3.3.0",
+    "mongoose": "^4.9.6",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvndr/MongoDB_Full_Guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvndr/MongoDB_Full_Guide/issues"
+  },
+  "homepage": "https://github.com/mvndr/MongoDB_Full_Guide#readme"
+}
