@@ -6,7 +6,7 @@ NodeJS focused?  Yep.  Test Driven Exercises?  Absolutely!  Advanced Features of
 
 We'll start by mastering the fundamentals of Mongo, including collections, validations, and common record manipulation techniques. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable code that you'll be able to make use of on your own fantastic projects.
 
-#To learn MongoDB you have to understand it.
+# To learn MongoDB you have to understand it.
 
 Learn how to use the popular MongooseJS library to interface with Mongo
 Write tests around Mongo queries to ensure your code is working. You can reuse these tests on your own personal projects!
@@ -21,7 +21,7 @@ Master the integration of Mongo, Node, and Mocha in a modern development environ
 
 All you need is a Mac or a PC
 
-#What am I going to get >
+# What am I going to get >
 
 Understand how MongoDB stores data
 Gain mastery of the most popular MongoDB interface, Mongoose JS
