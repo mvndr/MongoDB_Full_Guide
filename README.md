@@ -4,7 +4,7 @@ MongoDB is the hottest database solution in the tech world right now, able to po
 
 NodeJS focused?  Yep.  Test Driven Exercises?  Absolutely!  Advanced Features of MongooseJS?  You know it.
 
-We'll start by mastering the fundamentals of Mongo, including collections, validations, and common record manipulation techniques. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable code that you'll be able to make use of on your own fantastic projects.
+We'll start by mastering the fundamentals of Mongo, including collections, validations, and common record manipulation techniques. Special attention has been paid to creating reusable code that you'll be able to make use of on your own fantastic projects.
 
 # To learn MongoDB you have to understand it.
 
@@ -17,7 +17,7 @@ Develop apps that are fast and responsive thanks to Mongo's speed and flexibilit
 Work on either Windows or OSX
 Master the integration of Mongo, Node, and Mocha in a modern development environment
 
-#What are the requirements?
+# What are the requirements?
 
 All you need is a Mac or a PC
 
